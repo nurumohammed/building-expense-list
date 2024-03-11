@@ -1,12 +1,10 @@
-import Form2 from "./Components/Form"
+import Form from "./Components/form3";
 
-
-
-function App(){
-  return(
+function App() {
+  return (
     <div>
-     <Form2/>
+      <Form />
     </div>
-  )
+  );
 }
-export default App
+export default App;
