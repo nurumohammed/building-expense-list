@@ -1,10 +1,11 @@
-import Form from "./Components/Form"
+import Form2 from "./Components/Form"
+
 
 
 function App(){
   return(
     <div>
-     <Form/>
+     <Form2/>
     </div>
   )
 }
