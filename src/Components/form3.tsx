@@ -1,7 +1,7 @@
 
 import { FieldValues, useForm } from "react-hook-form";
 
-const Form = () => {
+const Form3 = () => {
    const { register, handleSubmit } = useForm();
    const onSubmit=(data:FieldValues)=>console.log(data)
 
@@ -36,4 +36,4 @@ const Form = () => {
   );
 };
 
-export default Form;
+export default Form3;
